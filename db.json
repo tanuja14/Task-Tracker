@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 3,
+      "text": "Swimming class",
+      "day": "May 7th at 6:30pm",
+      "reminder": true
+    },
+    {
+      "id": 4,
+      "text": "Buying Grocery",
+      "day": "May 8th at 10:30pm",
+      "reminder": false
+    },
+    {
+      "text": "Studying",
+      "day": "June 3rd at 10:30am",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "Morning Walk",
+      "day": "May 25th at 8 am",
+      "reminder": false,
+      "id": 6
+    }
+  ]
+}
